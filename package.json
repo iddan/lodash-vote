@@ -10,6 +10,7 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
+  "homepage": "https://iddan.github.io/lodash-vote/build",
   "devDependencies": {
     "node-sass-chokidar": "^0.0.2",
     "npm-run-all": "^4.0.2",
